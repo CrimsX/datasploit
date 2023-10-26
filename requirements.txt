@@ -1,5 +1,5 @@
 anyjson
-beautifulsoup
+beautifulsoup==3.2.1
 beautifulsoup4
 billiard
 bs4
@@ -16,9 +16,9 @@ json2html
 lxml
 netaddr
 piplapis-python
-praw
+praw==1.0.7
 pymongo
-python-wappalyzer
+python-wappalyzer==0.2.2
 python-whois
 pytz
 requests
@@ -30,3 +30,4 @@ tldextract
 tqdm
 travispy
 tweepy
+httplib2==0.11.3
